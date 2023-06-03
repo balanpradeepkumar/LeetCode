@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "0.0.1",
+  "description": "My Solutions for the LeetCode Problems",
+  "author": "Pradeep Kumar Balan",
+  "license": "MIT",
+  "homepage": "https://github.com/balanpradeepkumar/LeetCode#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balanpradeepkumar/LeetCode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "leetcode-javascript-solutions"
+  ],
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

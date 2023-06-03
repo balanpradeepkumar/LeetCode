@@ -1,6 +1,7 @@
 # LeetCode Solutions
+
 My Solutions for the LeetCode Problems. Happy Coding!
 
-| # | Category | Title | Solution | Difficulty |
-| - | -------- | ----- | -------- | ---------- |
-| 217 | Arrays | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./arrays_and_hashing/js/contains_duplicate.js) | Easy |
+| #   | Category | Difficulty | Title                                                                   | Solution                                            | Runtime / Beats | Memory / Beats |
+| --- | -------- | ---------- | ----------------------------------------------------------------------- | --------------------------------------------------- | --------------- | -------------- |
+| 217 | Arrays   | Easy       | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./arrays/js/217_contains_duplicate.js) | 118ms / 32.19%  | 54mb / 57.82%  |
