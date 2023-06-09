@@ -25,7 +25,7 @@ describe("Test Cases", () => {
       [1, 1, -1, -2],
       [-1, -1, -2, -3],
     ]);
-    expect(negatives).toEqual(8);
+    expect(negatives).toBe(8);
   });
 
   it("Example 2", () => {
@@ -33,6 +33,6 @@ describe("Test Cases", () => {
       [3, 2],
       [1, 0],
     ]);
-    expect(negatives).toEqual(0);
+    expect(negatives).toBe(0);
   });
 });
